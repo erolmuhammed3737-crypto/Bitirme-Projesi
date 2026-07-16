@@ -1,0 +1,9 @@
+2024-2025 Güz başarı kaynağı
+=============================
+
+Hocanın gönderdiği özgün dosya adı: 2024-2025_Güz_güncel.xlsx
+Teslim paketindeki taşınabilir adı: basari_2024_2025_guz.xlsx
+
+Bu dosya eski kaynakla aynı 11.550 veri satırını içerir. Ek olarak
+"Başarı oranı_Güncel (%)" sütunu bulunur. Kod bu sütunu resmi kontrol
+alani olarak okur ve Başarılı / (Öğrenci - DZ) × 100 formülüyle doğrular.

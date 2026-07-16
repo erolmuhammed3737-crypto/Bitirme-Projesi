@@ -1,0 +1,53 @@
+TBMYO BİTİRME PROJESİ — İLK ÇALIŞTIRMA
+=======================================
+
+ÖNEMLİ:
+ZIP dosyasının içinden doğrudan çalıştırmayın.
+Önce ZIP'e sağ tıklayın > Tümünü Ayıkla.
+
+A) PYTHON YOKSA
+1. calistir.bat dosyasına çift tıklayın.
+2. "PYTHON BULUNAMADI" yazarsa açılan resmi Python sayfasından
+   Windows 64-bit Python kurun.
+3. Kurulum ekranında "Add Python to PATH" kutusunu işaretleyin.
+4. Kurulum bitince açık CMD pencerelerini kapatın.
+5. Proje klasöründeki calistir.bat dosyasına yeniden çift tıklayın.
+
+B) İLK ÇALIŞTIRMA
+- İnternet bağlantısı açık olmalıdır.
+- Program proje içinde .venv isimli özel bir Python ortamı oluşturur.
+- pandas, numpy, xlsxwriter ve openpyxl kütüphanelerini kurar.
+- Ardından bitirme_projesi_analiz.py dosyasını çalıştırır.
+- İşlem bitince Sonuclar klasörünü otomatik açar.
+
+C) SONRAKİ ÇALIŞTIRMALAR
+Sadece calistir.bat dosyasına çift tıklayın.
+Kütüphaneler daha önce kurulduğundan işlem daha hızlı başlar.
+
+D) ÇIKTILAR
+Sonuclar\Memnuniyet       : Görev 3'ün düzeltilmiş bölüm bazlı çıktıları
+Sonuclar\Basari_Oranlari  : Başarı oranı karşılaştırmaları
+Sonuclar\00_Kontrol_Raporu.xlsx
+Sonuclar\01_Yeni_Dosya_Dogrulama.xlsx
+
+E) HOCAYA CANLI GÖSTERİM SIRASI
+1. Veriler klasöründeki dört kaynak Excel'i gösterin.
+2. bitirme_projesi_analiz.py dosyasını VS Code'da açın.
+3. calistir.bat dosyasına çift tıklayın.
+4. Terminalde 19 memnuniyet + 20 başarı dosyasının oluştuğunu gösterin.
+5. Sonuclar\Memnuniyet içinden bir bölüm Excel'i açın.
+6. 01_Tum_Dersler_Ozet ve 02_Bolum_Genel_Analiz sayfalarını gösterin.
+7. Birimi_Bos.xlsx dosyasını gösterin.
+8. Sonuclar\Basari_Oranlari içinden bir bölüm Excel'i açın.
+9. Devamsız hariç başarı oranı formülünü açıklayın.
+
+F) HATA OLURSA
+- Excel çıktılarını kapatın ve tekrar deneyin.
+- ZIP içinden değil, ayıklanmış klasörden çalıştırdığınızdan emin olun.
+- İnternetin ilk kurulumda açık olduğundan emin olun.
+- Son hata mesajının ekran görüntüsünü alın.
+
+Proje Python 3.13.5 üzerinde temiz ortamda yeniden test edilmiştir.
+
+
+

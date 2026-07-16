@@ -1,0 +1,61 @@
+==========================================================================
+TBMYO İKİ DÖNEM KARŞILAŞTIRMALI ANALİZ
+==========================================================================
+Girdi dosyaları:
+  Memnuniyet 1 : /mnt/data/final_audit/Bitirme_Projesi_Teslim/Veriler/memnuniyet_2024_2025_guz.xlsx
+  Memnuniyet 2 : /mnt/data/final_audit/Bitirme_Projesi_Teslim/Veriler/memnuniyet_2025_2026_guz.xlsx
+  Başarı 1     : /mnt/data/final_audit/Bitirme_Projesi_Teslim/Veriler/basari_2024_2025_guz.xlsx
+  Başarı 2     : /mnt/data/final_audit/Bitirme_Projesi_Teslim/Veriler/basari_2025_2026_guz.xlsx
+
+[1/4] Memnuniyet dosyaları okunuyor...
+[2/4] Başarı dosyaları okunuyor ve üst birim süzülüyor...
+[3/4] Birim bazında karşılaştırmalı Excel dosyaları oluşturuluyor...
+  Memnuniyet 01/19: Bilgisayar_Programciliği.xlsx
+  Memnuniyet 02/19: Bilgisayar_Programciliği_(Uzaktan_Öğretim).xlsx
+  Memnuniyet 03/19: Bilgisayar_Programciliği_(IÖ).xlsx
+  Memnuniyet 04/19: Birimi_Bos.xlsx
+  Memnuniyet 05/19: Elektrik.xlsx
+  Memnuniyet 06/19: Elektrik_(IÖ).xlsx
+  Memnuniyet 07/19: Elektronik_Haberleşme_Teknolojisi.xlsx
+  Memnuniyet 08/19: Elektronik_Haberleşme_Teknolojisi_(IÖ).xlsx
+  Memnuniyet 09/19: Elektronik_Teknolojisi.xlsx
+  Memnuniyet 10/19: Giyim_Üretim_Teknolojisi.xlsx
+  Memnuniyet 11/19: Kontrol_ve_Otomasyon_Teknolojisi.xlsx
+  Memnuniyet 12/19: Makine.xlsx
+  Memnuniyet 13/19: Moda_Tasarimi.xlsx
+  Memnuniyet 14/19: Moda_Tasarimi_(Uzaktan_Öğretim).xlsx
+  Memnuniyet 15/19: Moda_Tasarimi_(IÖ).xlsx
+  Memnuniyet 16/19: Yapay_Zeka_Operatörlüğü.xlsx
+  Memnuniyet 17/19: Iş_Sağliği_ve_Güvenliği.xlsx
+  Memnuniyet 18/19: Iş_Sağliği_ve_Güvenliği_(Uzaktan_Öğretim).xlsx
+  Memnuniyet 19/19: Iş_Sağliği_ve_Güvenliği_(IÖ).xlsx
+  Başarı     01/20: Basim_ve_Yayim_Teknolojileri.xlsx
+  Başarı     02/20: Basim_ve_Yayim_Teknolojileri_(IÖ).xlsx
+  Başarı     03/20: Bilgisayar_Programciliği.xlsx
+  Başarı     04/20: Bilgisayar_Programciliği_(Uzaktan_Öğretim).xlsx
+  Başarı     05/20: Bilgisayar_Programciliği_(IÖ).xlsx
+  Başarı     06/20: Elektrik.xlsx
+  Başarı     07/20: Elektrik_(IÖ).xlsx
+  Başarı     08/20: Elektronik_Haberleşme_Teknolojisi.xlsx
+  Başarı     09/20: Elektronik_Haberleşme_Teknolojisi_(IÖ).xlsx
+  Başarı     10/20: Elektronik_Teknolojisi.xlsx
+  Başarı     11/20: Giyim_Üretim_Teknolojisi.xlsx
+  Başarı     12/20: Kontrol_ve_Otomasyon_Teknolojisi.xlsx
+  Başarı     13/20: Makine.xlsx
+  Başarı     14/20: Moda_Tasarimi.xlsx
+  Başarı     15/20: Moda_Tasarimi_(Uzaktan_Öğretim).xlsx
+  Başarı     16/20: Moda_Tasarimi_(IÖ).xlsx
+  Başarı     17/20: Yapay_Zeka_Operatörlüğü.xlsx
+  Başarı     18/20: Iş_Sağliği_ve_Güvenliği.xlsx
+  Başarı     19/20: Iş_Sağliği_ve_Güvenliği_(Uzaktan_Öğretim).xlsx
+  Başarı     20/20: Iş_Sağliği_ve_Güvenliği_(IÖ).xlsx
+[4/4] Kontrol raporu yazılıyor...
+
+==========================================================================
+İŞLEM TAMAMLANDI
+Memnuniyet dosyası sayısı : 19
+Başarı dosyası sayısı     : 20
+Sonuç klasörü             : /mnt/data/final_audit/Bitirme_Projesi_Teslim/Sonuclar
+==========================================================================
+
+ELAPSED=10.62 EXIT=0
